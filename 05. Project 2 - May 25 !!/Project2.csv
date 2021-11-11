@@ -1,0 +1,36 @@
+,Symbol,Security,SEC filings,GICS Sector,GICS Sub-Industry,Headquaters Location,Date first added,CIK,Founded,Stock Price,averageDailyVolume3Month,earnings1Q2021,fullTimeEmployees
+0,MMM,3M Company,reports,Industrials,Industrial Conglomerates,"St. Paul, Minnesota",1976-08-09,0000066740,1902,202.85,2.34M,2.77,95000
+1,ABT,Abbott Laboratories,reports,Health Care,Health Care Equipment,"North Chicago, Illinois",1964-03-31,0000001800,1888,118.0,4.93M,1.32,109000
+2,ABBV,AbbVie Inc.,reports,Health Care,Pharmaceuticals,"North Chicago, Illinois",2012-12-31,0001551152,2013 (1888),115.97,6.81M,2.95,48000
+3,ABMD,Abiomed,reports,Health Care,Health Care Equipment,"Danvers, Massachusetts",2018-05-31,0000815094,1981,281.0,277.28k,1.24,1725
+4,ACN,Accenture,reports,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",2011-07-06,0001467373,1989,285.8,2.05M,2.03,537000
+5,ATVI,Activision Blizzard,reports,Communication Services,Interactive Home Entertainment,"Santa Monica, California",2015-08-31,0000718877,2008,96.87,5.99M,0.84,9500
+6,ADBE,Adobe Inc.,reports,Information Technology,Application Software,"San Jose, California",1997-05-05,0000796343,1982,499.02,2.48M,3.14,22516
+7,AMD,Advanced Micro Devices,reports,Information Technology,Semiconductors,"Santa Clara, California",,0000002488,1969,77.33,45.74M,0.52,12600
+8,AAP,Advance Auto Parts,reports,Consumer Discretionary,Automotive Retail,"Raleigh, North Carolina",2015-07-09,0001158449,1932,191.47,840.59k,1.87,40000
+9,AES,AES Corp,reports,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",1998-10-02,0000874761,1981,25.85,6.35M,0.28,8162
+10,AFL,Aflac,reports,Financials,Life & Health Insurance,"Columbus, Georgia",1999-05-28,0000004977,1955,56.42,3.34M,1.53,12003
+11,A,Agilent Technologies,reports,Health Care,Health Care Equipment,"Santa Clara, California",2000-06-05,0001090872,1999,133.41,1.54M,1.06,16400
+12,APD,Air Products & Chemicals,reports,Materials,Industrial Gases,"Allentown, Pennsylvania",1985-04-30,0000002969,1940,300.79,913.43k,2.08,19000
+13,AKAM,Akamai Technologies,reports,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",2007-07-12,0001086222,1998,115.13,1.74M,1.38,8300
+14,ALK,Alaska Air Group,reports,Industrials,Airlines,"Seattle, Washington",2016-05-13,0000766421,1985,68.96,1.57M,-3.51,17140
+15,ALB,Albemarle Corporation,reports,Materials,Specialty Chemicals,"Charlotte, North Carolina",2016-07-01,0000915913,1994,160.44,1.13M,1.1,5900
+16,ARE,Alexandria Real Estate Equities,reports,Real Estate,Office REITs,"Pasadena, California",2017-03-20,0001035443,1994,178.05,814.1k,0.04,470
+17,ALXN,Alexion Pharmaceuticals,reports,Health Care,Pharmaceuticals,"Boston, Massachusetts",2012-05-25,0000899866,1992,177.74,2.36M,3.52,3837
+18,ALGN,Align Technology,reports,Health Care,Health Care Supplies,"San Jose, California",2017-06-19,0001097149,1997,605.15,649.45k,2.49,18975
+19,ALLE,Allegion,reports,Industrials,Building Products,"Dublin, Ireland",2013-12-02,0001579241,1908,138.8,747.72k,1.2,11500
+20,LNT,Alliant Energy,reports,Utilities,Electric Utilities,"Madison, Wisconsin",2016-07-01,0000352541,1917,58.03,1.52M,0.68,3375
+21,ALL,Allstate Corp,reports,Financials,Property & Casualty Insurance,"Northfield Township, Illinois",1995-07-13,0000899051,1931,137.13,2.1M,6.11,41860
+22,GOOGL,Alphabet Inc.,reports,Communication Services,Interactive Media & Services,"Mountain View, California",2014-04-03,0001652044,1998,2372.0,1.65M,26.29,139995
+23,GOOG,Alphabet Inc.,reports,Communication Services,Interactive Media & Services,"Mountain View, California",2006-04-03,0001652044,1998,2420.0,1.45M,26.29,139995
+24,MO,Altria Group Inc,reports,Consumer Staples,Tobacco,"Richmond, Virginia",1957-03-04,0000764180,1985,50.275,10.38M,1.07,7100
+25,AMZN,Amazon.com Inc.,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2005-11-18,0001018724,1994,3266.67,3.68M,15.79,1271000
+26,AMCR,Amcor plc,reports,Materials,Paper Packaging,Warmley,2019-06-07,0001748790,2019 (1860),11.77,6.19M,0.18,47000
+27,AEE,Ameren Corp,reports,Utilities,Multi-Utilities,"St. Louis, Missouri",1991-09-19,0001002910,1902,84.66,1.44M,0.91,9183
+28,AAL,American Airlines Group,reports,Industrials,Airlines,"Fort Worth, Texas",2015-03-23,0000006201,1934,23.45,39.58M,-4.32,113200
+29,AEP,American Electric Power,reports,Utilities,Electric Utilities,"Columbus, Ohio",1957-03-04,0000004904,1906,86.65,3.07M,1.15,16787
+30,AXP,American Express,reports,Financials,Consumer Finance,"New York, New York",1976-06-30,0000004962,1850,159.07,3.06M,2.74,63700
+31,AIG,American International Group,reports,Financials,Property & Casualty Insurance,"New York, New York",1980-03-31,0000005272,1919,51.99,4.36M,1.05,45000
+32,AMT,American Tower Corp.,reports,Real Estate,Specialized REITs,"Boston, Massachusetts",2007-11-19,0001053507,1995,253.35,2.21M,1.45,5618
+33,AWK,American Water Works,reports,Utilities,Water Utilities,"Camden, New Jersey",2016-03-04,0001410636,1886,154.84,1.1M,0.73,7000
+34,AMP,Ameriprise Financial,reports,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",2005-10-03,0000820027,1894,256.19,708.86k,5.43,12300
